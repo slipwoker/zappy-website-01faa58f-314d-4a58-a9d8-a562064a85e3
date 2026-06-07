@@ -2,13 +2,13 @@
 
 Kave Ashrai (קווי אשראי) is a professional Israeli financial services company specializing in loan origination and credit solutions for all purposes. The brand projects trust, discretion, and personal service, positioning itself as a knowledgeable guide that navigates clients through complex financial landscapes — including personal loans, debt consolidation, liability restructuring, and fast financing. The tone is authoritative yet approachable, emphasizing speed, privacy, and tailored solutions for salaried employees, self-employed individuals, and business owners alike. The visual identity leans into premium digital banking aesthetics with a dark navy, white, and gold palette to evoke reliability and financial sophistication.
 
-Source: https://example.com
+Source: https://kaveiashrai.zappy5.app
 
 ---
 
 ## הלוואה מיידית אונליין — קווי אשראי
 
-URL: https://example.com
+URL: https://kaveiashrai.zappy5.app
 Description: קבלו הלוואה דיגיטלית מיידית לכל מטרה עד 500,000 ש&quot;ח, ללא ערבים ובטחונות. איחוד הלוואות, כיסוי מינוס, שיפוץ ופתרונות אשראי מהירים. התחילו עכשיו!
 
 הלוואה מיידית אונליין — קווי אשראי
@@ -845,7 +845,7 @@ Description: קבלו הלוואה דיגיטלית מיידית לכל מטרה
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://kaveiashrai.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1107,7 +1107,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://kaveiashrai.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1378,7 +1378,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://kaveiashrai.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
